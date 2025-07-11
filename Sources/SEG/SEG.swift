@@ -3,6 +3,6 @@
 
 import SwiftUI
 
-struct SEG{
+struct SEG {
     var text: String = "Test This"
 }
