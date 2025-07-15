@@ -3,6 +3,11 @@
 
 import SwiftUI
 
-struct SEG {
-    var text: String = "Test This"
+//struct SEG {
+//    var text: String = "Test This"
+//}
+public struct SEG {
+    public func greet(name: String) -> String {
+        return "Hello, \(name)!"
+    }
 }
