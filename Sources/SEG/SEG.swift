@@ -9,6 +9,6 @@ import SwiftUI
 public struct SEG {
     public init() {}
     public func greet(name: String) -> String {
-        return "Hello person named -, \(name)!"
+        return "Hello person named shubham -, \(name)!"
     }
 }
